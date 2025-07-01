@@ -3,7 +3,4 @@ http://example.com/resource/index.html
 http://example.com/2025/06/30/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/
 http://example.com/2025/06/30/hello-world/
 http://example.com/
-http://example.com/tags/%E8%BD%AF%E4%BB%B6/
-http://example.com/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/
 http://example.com/tags/%E3%80%90hexo-%E5%8D%9A%E5%AE%A2%EF%BC%8C%E5%AD%A6%E4%B9%A0%E3%80%91/
-http://example.com/categories/%E9%99%90%E6%97%B6%E6%B4%BB%E5%8A%A8/
